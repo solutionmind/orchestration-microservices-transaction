@@ -1,0 +1,8 @@
+C:\OnPrem\orchestration-microservices-transaction\inventory-service\src\main\java\com\techrocking\inventory\service\InventoryService.java
+C:\OnPrem\orchestration-microservices-transaction\inventory-service\src\main\java\com\techrocking\inventory\InventoryServiceApplication.java
+C:\OnPrem\orchestration-microservices-transaction\inventory-service\src\main\java\com\techrocking\inventory\controller\InventoryController.java
+C:\OnPrem\orchestration-microservices-transaction\inventory-service\src\main\java\com\techrocking\inventory\kafka\source\ItemFetchedEventSource.java
+C:\OnPrem\orchestration-microservices-transaction\inventory-service\src\main\java\com\techrocking\inventory\kafka\channel\StreamsConfig.java
+C:\OnPrem\orchestration-microservices-transaction\inventory-service\src\main\java\com\techrocking\inventory\kafka\source\ItemOutOfStockEventSource.java
+C:\OnPrem\orchestration-microservices-transaction\inventory-service\src\main\java\com\techrocking\inventory\kafka\channel\InventoryChannel.java
+C:\OnPrem\orchestration-microservices-transaction\inventory-service\src\main\java\com\techrocking\inventory\kafka\message\ItemEvent.java

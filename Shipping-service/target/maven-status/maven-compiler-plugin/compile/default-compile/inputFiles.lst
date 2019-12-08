@@ -1,0 +1,7 @@
+C:\OnPrem\orchestration-microservices-transaction\Shipping-service\src\main\java\com\techrocking\shipping\kafka\channel\StreamsConfig.java
+C:\OnPrem\orchestration-microservices-transaction\Shipping-service\src\main\java\com\techrocking\shipping\kafka\source\GoodsShippedEventSource.java
+C:\OnPrem\orchestration-microservices-transaction\Shipping-service\src\main\java\com\techrocking\shipping\ShippingServiceApplication.java
+C:\OnPrem\orchestration-microservices-transaction\Shipping-service\src\main\java\com\techrocking\shipping\kafka\channel\ShippingChannel.java
+C:\OnPrem\orchestration-microservices-transaction\Shipping-service\src\main\java\com\techrocking\shipping\kafka\message\ShippingEvent.java
+C:\OnPrem\orchestration-microservices-transaction\Shipping-service\src\main\java\com\techrocking\shipping\controller\ShippingController.java
+C:\OnPrem\orchestration-microservices-transaction\Shipping-service\src\main\java\com\techrocking\shipping\service\ShippingService.java
